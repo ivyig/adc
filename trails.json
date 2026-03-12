@@ -1,0 +1,16 @@
+{
+  "trails": [
+    {
+      "name": "ivyscapes",
+      "colors": ["#006400", "#228b22", "#32cd32", "#90ee90"]
+    },
+    {
+      "name": "meowdrey_",
+      "colors": ["#f47fff", "#ffb4ff", "#f47fff"]
+    },
+    {
+      "name": "LICHI_I",
+      "colors": ["#FF0000", "#FF7F00", "#FFFF00", "#00FF00", "#0000FF", "#4B0082", "#9400D3"]
+    }
+  ]
+}
