@@ -1,14 +1,17 @@
 {
   "trails": [
     {
+      "uuid": "98535c63-7af7-4b0b-a73c-c2947330a114",
       "name": "ivyscapes",
       "colors": ["#006400", "#228b22", "#32cd32", "#90ee90"]
     },
     {
+      "uuid": "ca261541-4fa0-4c9f-aafc-8b81e72fadf8",
       "name": "meowdrey_",
       "colors": ["#f47fff", "#ffb4ff", "#f47fff"]
     },
     {
+      "uuid": "1f88052e-de85-49a2-832c-c31f6a7caf89",
       "name": "LICHI_I",
       "colors": ["#FF0000", "#FF7F00", "#FFFF00", "#00FF00", "#0000FF", "#4B0082", "#9400D3"]
     }
