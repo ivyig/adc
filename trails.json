@@ -15,6 +15,10 @@
     {
       "uuid": "ffce1cfe-1e25-40fa-85a9-a56f65ce4c75",
       "colors": ["#5BCEFA", "#F5A9B8", "#FFFFFF", "#F5A9B8", "#5BCEFA"]
+    },
+    {
+      "uuid": "34036110-04d3-478b-9fd2-4dedcc1f14de",
+      "colors": ["#FF0000"]
     }
   ]
 }
