@@ -2,18 +2,19 @@
   "trails": [
     {
       "uuid": "98535c63-7af7-4b0b-a73c-c2947330a114",
-      "name": "ivyscapes",
-      "colors": ["#006400", "#228b22", "#32cd32", "#90ee90"]
+      "colors": ["#006400", "#228B22", "#32CD32", "#90EE90"]
     },
     {
       "uuid": "ca261541-4fa0-4c9f-aafc-8b81e72fadf8",
-      "name": "meowdrey_",
-      "colors": ["#f47fff", "#ffb4ff", "#f47fff"]
+      "colors": ["#F47FFF", "#FFB4FF", "#F47FFF"]
     },
     {
-      "uuid": "1f88052e-de85-49a2-832c-c31f6a7caf89",
-      "name": "LICHI_I",
+      "uuid": "e8379430-81f1-438f-a886-f13115469cae",
       "colors": ["#FF0000", "#FF7F00", "#FFFF00", "#00FF00", "#0000FF", "#4B0082", "#9400D3"]
+    },
+    {
+      "uuid": "ffce1cfe-1e25-40fa-85a9-a56f65ce4c75",
+      "colors": ["#5BCEFA", "#F5A9B8", "#FFFFFF", "#F5A9B8", "#5BCEFA"]
     }
   ]
 }
