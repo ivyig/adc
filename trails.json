@@ -14,7 +14,7 @@
     },
     {
       "uuid": "ffce1cfe-1e25-40fa-85a9-a56f65ce4c75",
-      "colors": ["#5BCEFA", "#F5A9B8", "#FFFFFF", "#F5A9B8", "#5BCEFA"]
+      "colors": ["#8BE0FF", "#FFC4E1", "#FFFFFF", "#FFC4E1", "#8BE0FF"]
     },
     {
       "uuid": "34036110-04d3-478b-9fd2-4dedcc1f14de",
@@ -27,6 +27,10 @@
     {
       "uuid": "a85d2291-a2da-44b9-bf64-35e1164c8009",
       "colors": ["#FA00FF", "#EA69FA"]
+    },
+    {
+      "uuid":"413951c1-b365-4dc0-9b25-98cdafc3fa1b",
+      "colors": ["#5BCEFA", "#F5A9B8", "#FFFFFF", "#F5A9B8", "#5BCEFA"]
     }
   ]
 }
